@@ -3,3 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+header {
+    height: 69px;
+    position: fixed;
+}
+
+header img {
+    height: 50px;
+}
+
+li {
+    text-decoration: underline;
+    display: inline-flex;
+    
+    
+}
