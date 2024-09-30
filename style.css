@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    opacity: 0.9;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 0.9;
+    
 }
 
 header {
