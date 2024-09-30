@@ -127,6 +127,25 @@ h2 {
     align-items: center;
     justify-content: space-around;
 }
+
+footer {
+    position: relative;
+    top:69px;
+}
+#contact-info {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#copryright {
+    text-align: left;
+    margin-left: 20px;
+}
+
+    
     
 
 
