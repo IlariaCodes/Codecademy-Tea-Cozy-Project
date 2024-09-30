@@ -70,4 +70,33 @@ main {
 h2 {
     margin-bottom: 20px;
 }
+
+#teas {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+.tea img {
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#teas-h {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tea-types {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+
+
+
+
     
