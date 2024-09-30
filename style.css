@@ -20,14 +20,21 @@ header {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    z-index: 1;
+    border-bottom: 1px solid seashell;
+    background-color: black;
 }
     
 
 
 #logo-img {
-    height: 50px;
     margin-left: 10px;
 }
+
+#logo-img img {
+    height: 50px;
+}
+
 
 #navigation-container {
     margin-right: 10px;
@@ -41,5 +48,26 @@ header {
     
 }
 
+main {
+    position: relative;
+    top:69px;
+}
 
+#mission {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    margin: 0 auto;
+    height: 700px;
+    width: 1200px;
+    align-content: center;
+}
+
+#mission-content {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
     
