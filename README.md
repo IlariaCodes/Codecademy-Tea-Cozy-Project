@@ -3,7 +3,7 @@
 ## Table of Contents:
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
-- [How to use](#how-to-use)
+- [Installation](#installation)
 
 ## Project Overview 🌟
 
@@ -20,7 +20,7 @@ The website was developed based on the design specifications provided by Codecad
 - Git
 - GitHub
 
-## How to use 📑
+## Installation 📑
 1. Clone the repository and change directory:
    `git clone <repository-url>`
 2. Open in VSCode:
